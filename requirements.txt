@@ -1,0 +1,11 @@
+Django
+pyttsx3
+SpeechRecognition
+transformers
+tensorflow
+torch
+pandas
+numpy
+opencv-python
+nltk
+spacy
